@@ -1,0 +1,15 @@
+body {
+  background-color: #333;
+  color: #fff;
+}
+
+table {
+  border: 1px solid #fff;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+img {
+  height: 30px;
+  width: 30px;
+}
